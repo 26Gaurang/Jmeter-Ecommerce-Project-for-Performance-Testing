@@ -1,0 +1,61 @@
+# ==========================
+# JMeter Project .gitignore
+# ==========================
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# JMeter result & report files
+*.jtl
+*.csv
+*.log
+*.tmp
+*.bak
+
+# HTML reports and temporary output
+reports/
+html-report/
+output/
+results/
+report-output/
+jmeter.log
+
+# Backup or autosave files
+*.bak
+*.old
+*.swp
+*.swo
+*.orig
+
+# Eclipse / IntelliJ / VS Code project files
+.classpath
+.project
+.settings/
+.idea/
+.vscode/
+
+# Build / dependency folders
+target/
+build/
+
+# Environment / credentials (if any)
+.env
+*.properties
+
+# Python or helper scripts (if you ever use them)
+__pycache__/
+*.pyc
+
+# Node modules (if integrating UI or API mock testing)
+node_modules/
+
+# Temporary archives
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# System folders
+$RECYCLE.BIN/
