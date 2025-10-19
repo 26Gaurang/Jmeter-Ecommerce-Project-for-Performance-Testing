@@ -82,8 +82,8 @@ jmeter -n -t "EcommerceFlow.jmx" \
 
 ## 📜 Author
 
-Gaurang Gajjar
-
-Software Tester & Automation Enthusiast
+- Gaurang Gajjar
+- Software Tester & Automation Enthusiast
+- gauranggajjar26@gmail.com
 
 GitHub: https://github.com/26Gaurang/Jmeter-Ecommerce-Project-for-Performance-Testing
